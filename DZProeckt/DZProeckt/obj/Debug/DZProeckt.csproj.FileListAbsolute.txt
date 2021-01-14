@@ -1,0 +1,10 @@
+D:\занятия\DZProeckt\DZProeckt\bin\Debug\DZProeckt.exe.config
+D:\занятия\DZProeckt\DZProeckt\bin\Debug\DZProeckt.exe
+D:\занятия\DZProeckt\DZProeckt\bin\Debug\DZProeckt.pdb
+D:\занятия\DZProeckt\DZProeckt\obj\Debug\DZProeckt.csprojAssemblyReference.cache
+D:\занятия\DZProeckt\DZProeckt\obj\Debug\DZProeckt.Form1.resources
+D:\занятия\DZProeckt\DZProeckt\obj\Debug\DZProeckt.Properties.Resources.resources
+D:\занятия\DZProeckt\DZProeckt\obj\Debug\DZProeckt.csproj.GenerateResource.cache
+D:\занятия\DZProeckt\DZProeckt\obj\Debug\DZProeckt.csproj.CoreCompileInputs.cache
+D:\занятия\DZProeckt\DZProeckt\obj\Debug\DZProeckt.exe
+D:\занятия\DZProeckt\DZProeckt\obj\Debug\DZProeckt.pdb
